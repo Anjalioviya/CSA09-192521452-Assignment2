@@ -1,0 +1,4 @@
+size,array_append_ns,linked_append_ns,array_get_ns,linked_get_ns,array_front_insert_ns,linked_front_insert_ns,deque_ends_ns,array_iter_ns,linked_iter_ns
+1000,179,240,125,1111,461,204,282,27274,28036
+10000,27,32,18,10038,998,39,70,38612,43145
+50000,22,28,16,41771,5414,52,162,24036,74451

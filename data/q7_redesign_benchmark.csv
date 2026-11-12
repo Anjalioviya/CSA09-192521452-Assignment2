@@ -1,0 +1,5 @@
+fields,repetitions,original_plus_ns,redesigned_builder_ns,outputs_equal
+10,1000,2195,1217,true
+50,200,4795,745,true
+200,100,34976,2530,true
+500,100,142715,2678,true

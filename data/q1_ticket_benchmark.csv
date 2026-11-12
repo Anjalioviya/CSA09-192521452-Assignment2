@@ -1,0 +1,4 @@
+fields,tickets,plus_ns_per_ticket,builder_ns_per_ticket,buffer_ns_per_ticket
+6,1,12791,4458,5750
+50,10000,2431,815,670
+200,1000,12234,1523,1555

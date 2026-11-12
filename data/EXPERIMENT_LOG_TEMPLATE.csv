@@ -1,0 +1,11 @@
+question,workload_or_size,prediction,measured_result,notes
+Q1,6 fields x 1 ticket,,,,
+Q1,50 fields x 10000 tickets,,,,
+Q1,200 fields x 1000 tickets,,,,
+Q2,1000 playlist items,,,,
+Q2,10000 playlist items,,,,
+Q2,50000 playlist items,,,,
+Q4,1000 medicines,,,,
+Q4,10000 medicines,,,,
+Q4,50000 medicines,,,,
+Q7,10/50/200/500 fields,,,,

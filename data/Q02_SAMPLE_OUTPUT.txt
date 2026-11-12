@@ -1,0 +1,5 @@
+size,array_append_ns,linked_append_ns,array_get_ns,linked_get_ns,array_front_insert_ns,linked_front_insert_ns,deque_ends_ns,array_iter_ns,linked_iter_ns
+1000,286,1302,183,1912,508,415,1241,50370,49035
+10000,54,95,62,15579,835,83,197,103850,136674
+50000,36,62,347,79305,12119,110,1468,146320,575743
+Interpretation: timings are JVM/machine dependent; compare trends, not isolated nanoseconds.

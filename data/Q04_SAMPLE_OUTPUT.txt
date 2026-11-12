@@ -1,0 +1,5 @@
+medicines,hash_get_ns,tree_get_ns,linked_get_ns,hash_iter_ns,tree_iter_ns,linked_iter_ns
+1000,433,932,232,320782,308280,226829
+10000,656,787,150,1631645,528007,419551
+50000,122,563,112,2784658,1916608,1012742
+Ordering checks: PASS

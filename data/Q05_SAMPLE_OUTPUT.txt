@@ -1,0 +1,3 @@
+[Eagles(9,6), Bisons(9,4), Panthers(9,4), Cobras(6,1)]
+Bisons above Panthers: alphabetical tie-break (B before P).
+Tie test: [Alpha(5,2), Zeta(5,2)]

@@ -1,0 +1,4 @@
+Unique students: 2
+Corrected duplicate test size: 1
+Distinct registration numbers: 2
+Contract checks: PASS

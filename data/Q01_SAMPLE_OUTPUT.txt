@@ -1,0 +1,6 @@
+fields,tickets,plus_ns_per_ticket,builder_ns_per_ticket,buffer_ns_per_ticket
+6,1,33461,10626,14972
+50,10000,13581,2291,4769
+200,1000,186459,6244,5755
+Output equivalence: PASS
+Estimated intermediate strings: repeated + creates an intermediate result per append; builders use a mutable buffer and one final String.

@@ -1,0 +1,6 @@
+fields,repetitions,original_plus_ns,redesigned_builder_ns,outputs_equal
+10,1000,12366,4767,true
+50,200,22716,2653,true
+200,100,305394,9290,true
+500,100,1901977,14981,true
+Validation: PASS (identical generated ticket text).

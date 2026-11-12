@@ -1,0 +1,4 @@
+medicines,hash_get_ns,tree_get_ns,linked_get_ns,hash_iter_ns,tree_iter_ns,linked_iter_ns
+1000,172,348,152,127000,117883,66283
+10000,136,249,78,671550,268858,192216
+50000,93,248,77,2309641,1561100,1184583
